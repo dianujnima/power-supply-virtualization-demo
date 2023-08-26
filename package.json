@@ -1,7 +1,7 @@
 {
-  "name": "dianuj-power-supply-virtulization",
+  "name": "dianuj-power-supply-virtualization",
   "version": "0.0.1",
-  "description": "Power supply virtulization demo",
+  "description": "Power supply virtualization demo",
   "author": "dianujnima",
   "license": "MIT",
   "private": true,
